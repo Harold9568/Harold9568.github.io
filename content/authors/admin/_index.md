@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 李浩浩
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hao hao Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hao hao
+last_name: Li
 
 # Status emoji
 status:
@@ -17,28 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD of HIT
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Harbin Institute of Technology
+    url: https://www.hit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include prosocial crowdfunding, computer vision and AI.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Prosocial Crowdfunding
+  - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2023
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -52,17 +52,17 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'The first and the best'
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Stata
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: R
+        description: 'Learning'
         percent: 40
         icon: database
         icon_pack: fas
@@ -70,15 +70,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
+      - name: badminton
+        description: 'Favorite sport'
+        percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Pandas
+        description: 'Favorite anamial'
         percent: 100
-        icon: cat
+        icon: panda
         icon_pack: fas
       - name: Photography
         description: ''
@@ -105,10 +105,8 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Harold9568
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
