@@ -17,7 +17,7 @@ Downlond CV: [English Version](https://image-hosting-walton.oss-cn-beijing.aliyu
 
 <br> 
 
-Experience
+EXPERIENCE
 ======
 
 Education
@@ -32,7 +32,7 @@ Employment
 
 <br> 
 
-Research
+RESEARCH
 ======
 
 Publications
