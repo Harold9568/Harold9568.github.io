@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Thank you for taking the time to get to know me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Haohao Li is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.
+
+Haohao’s research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or micro-entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.
 
 A data-driven personal website
 ======
