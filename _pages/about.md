@@ -17,8 +17,8 @@ Haohao’s research interests include online crowdfunding, entrepreneurship, and
 
 Education
 ======
-- Ph.D in Management Science and Engineering, Harbin Institute of Technology, Mar 2022 - Now
-- M.S in Management Science and Engineering, Jilin University, Sep 2018 - Jun 2020
+- Ph.D in Information Systems, Harbin Institute of Technology, Mar 2022 - Now
+- M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020
 - B.S in Information Resources Management, Jilin University, Sep 2014 - Jun 2018
 
 <br> 
@@ -39,7 +39,7 @@ Publications
 
 Working Paper
 ------
-- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowd- funding. With Weitao He, c, Yuqiang Feng. Under review
+- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowd- funding. With Weitao He, Yuqiang Feng. Under review
 - How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu. Under review
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Jingwei Li, Luning Liu. Under review
 - Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. Under review
