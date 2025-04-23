@@ -42,13 +42,13 @@ Publications
 
 Working Paper
 ------
-- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowd- funding. With Weitao He, Yuqiang Feng. Under review
-- How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu. Under review
-- Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Jingwei Li, Luning Liu. Under review
-- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. Under review
-- When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu. In preparation
-- It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu. In preparation
-- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu. Under review
+- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowd- funding. With Weitao He, Luning Liu, Yuqiang Feng. Under Review
+- How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu. Under Review
+- Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Jingwei Li, Luning Liu. Under Review
+- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. With Editor
+- When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu. In Preparation
+- It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu. In Preparation
+- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu. Under Review
 
 Conference Presentations
 ------
