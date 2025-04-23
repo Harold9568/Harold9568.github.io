@@ -17,16 +17,17 @@ Downlond CV: [English Version](https://image-hosting-walton.oss-cn-beijing.aliyu
 
 <br> 
 
-Education
+Experience
 ======
+
+Education
+------
 - Ph.D in Information Systems, Harbin Institute of Technology, Mar 2022 - Now
 - M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020
 - B.S in Information Resources Management, Jilin University, Sep 2014 - Jun 2018
 
-<br> 
-
 Employment
-======
+------
 - Big Data Development Engineer, Zhuhai CosMX Battery Co., Ltd, Jul 2020 - Aug 2021
 
 <br> 
