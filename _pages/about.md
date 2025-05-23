@@ -42,11 +42,11 @@ Publications
 
 Working Paper
 ------
-- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng. Under Review  
+- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng. Under Review    
 - How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu. Under Review  
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Jingwei Li, Luning Liu. Under Review
-- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. With Editor  
-- When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu. In Preparation
+- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. With Editor    
+- When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu. In Preparation  
 - It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu. In Preparation  
 - Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu. Under Review  
 
@@ -60,4 +60,5 @@ Academic Services
 ------
 - ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship 
 - AOM2025 Reviewer, Track: ENT  
-- CSWIM2024 Reviewer, Track: Blockchain, DLT and Fintech 
+- CSWIM2024 Reviewer, Track: Blockchain, DLT and Fintech
+
