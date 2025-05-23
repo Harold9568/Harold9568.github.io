@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abount me"  
+title: "Abount me"    
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 
 Haohao Li is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.  
 
-Haohao’s research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.
+Haohao’s research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.  
 
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)
 
@@ -22,8 +22,8 @@ EXPERIENCE
 
 Education
 ------
-- Ph.D in Information Systems, Harbin Institute of Technology, Mar 2022 - Now
-- M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020
+- Ph.D in Information Systems, Harbin Institute of Technology, Mar 2022 - Now  
+- M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020  
 - B.S in Information Resources Management, Jilin University, Sep 2014 - Jun 2018
 
 Employment
@@ -42,7 +42,7 @@ Publications
 
 Working Paper
 ------
-- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng. Under Review    
+- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng. Under Review      
 - How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu. Under Review  
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Jingwei Li, Luning Liu. Under Review
 - Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. With Editor    
