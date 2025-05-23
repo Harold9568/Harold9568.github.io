@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abount me"    
+title: "Abount me"  
 author_profile: true
 redirect_from: 
   - /about/
