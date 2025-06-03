@@ -39,22 +39,23 @@ Publications
 ------
 - 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨
 - Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, 2024, _ICIS 2024 Conference Proceedings_
+- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, 2025, _PACIS 2025 Conference Proceedings_    
 
 Working Paper
 ------
-- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng. Under Review      
+- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng. R&R        
 - How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu. Under Review  
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Jingwei Li, Luning Liu. Under Review
-- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. With Editor    
+- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng. With Editor      
 - When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu. In Preparation  
-- It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu. In Preparation  
-- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu. Under Review  
+- It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu. In Preparation    
+- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu. Under Review    
 
 Conference Presentations
 ------
 - Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions,” _American Society for Public Administration’s 2025 Annual Conference_, Washington, DC, 2025 (**Recipient of the Runner-Up Award for Best Student Paper** in the Section on Chinese Public Administration of ASPA)  
-- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowd- funding”, with Weitao He, Luning Liu, and Yuqiang Feng. _CNAIS 2024_, Oct 2024, Tianjin, China; _CNIES 2024_, Oct 2024, Beijing, China  
-- Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success”, with Luning Liu. _ICIS 2024_, Dec 2024, Bangkok, Thailand
+- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowd- funding”, with Weitao He, Luning Liu, and Yuqiang Feng. _CNAIS 2024_, Oct 2024, Tianjin, China; _CNIES 2024_, Oct 2024, Beijing, China    
+- Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success”, with Luning Liu. _ICIS 2024_, Dec 2024, Bangkok, Thailand  
 
 Academic Services 
 ------
