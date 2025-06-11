@@ -44,19 +44,19 @@ Publications
 Working Paper
 ------
 - Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng.
-  JBV(Reject after review) -> SEJ(Desk reject) -> DSS(R&R)
+  <u>JBV(Reject after review) -> SEJ(Desk reject) -> DSS(R&R)</u>
 - How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu.
-  ETP(Reject after review) -> I&M(With editor)
+  <u>ETP(Reject after review) -> I&M(With editor)</u>
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Weitao He, Jingwei Li, Luning Liu.
-  JBV(Reject after review) -> ETP(In Preparation)
+  <u>JBV(Reject after review) -> ETP(In Preparation)</u>
 - Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng.
-  JKE(With editor)
+  <u>JKE(With editor)</u>
 - When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu.
-  MISQ(Reject after review) -> EJIS(In Preparation)
+  <u>MISQ(Reject after review) -> EJIS(In Preparation)</u>
 - It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu.
-  JSMED(Desk reject) -> JBV(In Preparation)
+  <u>JSMED(Desk reject) -> JBV(In Preparation)</u>
 - Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu.
-  PRA(Under Review)    
+  <u>PRA(Under Review)</u>
 
 Conference Presentations
 ------
