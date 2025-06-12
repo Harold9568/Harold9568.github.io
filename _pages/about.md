@@ -50,11 +50,11 @@ Working Paper
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Weitao He, Jingwei Li, Luning Liu.
   <u>JBV(Reject after review) -> ETP(In Preparation)</u>
 - Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng.
-  <u>JKE(With editor)</u>
+  <u>JSMED(Desk reject) -> JKE(With editor)</u>
 - When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu.
   <u>MISQ(Reject after review) -> EJIS(In Preparation)</u>
 - It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Weitao He, Jia Hu, Luning Liu.
-  <u>JSMED(Desk reject) -> JBV(In Preparation)</u>
+  <u>JBV(In Preparation)</u>
 - Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu.
   <u>PRA(Under Review)</u>
 
