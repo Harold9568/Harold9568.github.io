@@ -60,10 +60,10 @@ Working Paper
 
 Conference Presentations
 ------
-- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-Actions <br> 
+- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-Actions<br> 
   _American Society for Public Administration’s 2025 Annual Conference_, Washington, DC, 2025<br>  
   (**Recipient of the Runner-Up Award for Best Student Paper** in the Section on Chinese Public Administration of ASPA)    
-- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding <br>  
+- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding<br>  
   _CNAIS 2024_, Oct 2024, Tianjin, China<br>
   _CNIES 2024_, Oct 2024, Beijing, China
 - Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success<br>  
