@@ -11,9 +11,9 @@ redirect_from:
 
 Haohao Li is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.    
 
-His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.  
+His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.    
 
-Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)  
+Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)    
 
 <br> 
 
@@ -28,7 +28,7 @@ Education
 
 Employment
 ------
-- Big Data Development Engineer, Zhuhai CosMX Battery Co., Ltd, Jul 2020 - Aug 2021  
+- Big Data Development Engineer, Zhuhai CosMX Battery Co., Ltd, Jul 2020 - Aug 2021    
 
 <br> 
 
@@ -38,13 +38,13 @@ RESEARCH
 Publications
 ------
 - 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨
-- Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, 2024, _ICIS 2024 Conference Proceedings_
-- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, 2025, _PACIS 2025 Conference Proceedings_    
+- Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, 2024, _ICIS 2024 Conference Proceedings_  
+- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, 2025, _PACIS 2025 Conference Proceedings_      
 
 Working Paper
 ------
 - Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng.<br>
-  <u>JMIS(Desk reject) -> JBV(Reject after review) -> SEJ(Desk reject) -> DSS(R&R)</u>
+  <u>JMIS(Desk reject) -> JBV(Reject after review) -> SEJ(Desk reject) -> DSS(R&R)</u>  
 - How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu.<br>
   <u>ETP(Reject after review) -> I&M(With editor)</u>
 - Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Weitao He, Jingwei Li, Luning Liu.<br>
@@ -63,11 +63,13 @@ Conference Presentations
 - Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-Actions
   - _American Society for Public Administration’s 2025 Annual Conference_, Washington, USA. 
   (**The Runner-Up Award for Best Student Paper** in the Section on Chinese Public Administration of ASPA)    
-- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding 
+- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding   
   - _CNAIS 2024_, Oct 2024, Tianjin, China
   - _CNIES 2024_, Oct 2024, Beijing, China
-- Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success
+- Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success  
   - _ICIS 2024_, Dec 2024, Bangkok, Thailand  
+- Information Strategy in Platform Competition  
+  - _PACIS 2025_, JUL 2025, Kuala Lumpur, Malaysia 
 
 Academic Services 
 ------
