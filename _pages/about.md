@@ -69,7 +69,7 @@ Conference Presentations
 - Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success  
   - _ICIS 2024_, Dec 2024, Bangkok, Thailand  
 - Information Strategy in Platform Competition  
-  - _PACIS 2025_, JUL 2025, Kuala Lumpur, Malaysia 
+  - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia     
 
 Academic Services 
 ------
