@@ -11,7 +11,7 @@ redirect_from:
 
 Haohao Li is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.    
 
-His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.    
+His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.      
 
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)    
 
@@ -23,7 +23,7 @@ EXPERIENCE
 Education
 ------
 - Ph.D in Information Systems, Harbin Institute of Technology, Mar 2022 - Now  
-- M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020  
+- M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020    
 - B.S in Information Resources Management, Jilin University, Sep 2014 - Jun 2018
 
 Employment
@@ -39,31 +39,33 @@ Publications
 ------
 - 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨
 - Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, 2024, _ICIS 2024 Conference Proceedings_  
-- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, 2025, _PACIS 2025 Conference Proceedings_      
+- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, 2025, _PACIS 2025 Conference Proceedings_
+- Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, 2025, _HICSS 2025 Conference Proceedings_
+- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, 2025, _HICSS 2025 Conference Proceedings_           
 
 Working Paper
 ------
 - Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng.<br>
-  <u>JMIS(Desk reject) -> JBV(Reject after review) -> SEJ(Desk reject) -> DSS(R&R)</u>  
-- How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu.<br>
-  <u>ETP(Reject after review) -> I&M(With editor)</u>
-- Competing for attention: The role of visual complexity and facial emotional expressiveness in loan-based crowdfunding. With Weitao He, Jingwei Li, Luning Liu.<br>
-  <u>JBV(Reject after review) -> ETP(In Preparation)</u>
-- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng.<br>
-  <u>JSMED(Desk reject) -> JKE(With editor)</u>
-- When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu.<br>
-  <u>MISQ(Reject after review) -> EJIS(In Preparation)</u>
-- It Depends on Competition: The Value Difference Between Fact, Emotion, and Attractiveness. With Jia Hu, Weitao He, Luning Liu.<br>
-  <u>JBV(In Preparation)</u>
-- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu.<br>
-  <u>PRA(Under Review)</u>
+  <u>JMIS(Desk reject) -> JBV(Reject after review) -> SEJ(Desk reject) -> DSS(2th-R&R)</u>    
+- How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu.<br>  
+  <u>ETP(Reject after review) -> I&M(Reject after review) -> IPM(With editor)</u>  
+- Revisiting the role of visual complexity in the online attention economy: Evidence from crowdfunded microlending. With Weitao He, Jingwei Li, Luning Liu.<br>  
+  <u>JBV(Reject after review) -> EJIS(Desk reject) -> DSS(Desk reject) -> JBR(With editor)</u>  
+- Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng.<br>  
+  <u>JSMED(Desk reject) -> JKE(With editor)</u>  
+- When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu.<br>  
+  <u>MISQ(Reject after review) -> EJIS(In Preparation)</u>  
+- Information, emotion, and aesthetics: Visual persuasion in competitive crowdfunded microlending. With Jia Hu, Weitao He, Luning Liu.<br>  
+  <u>JBV(Under Review)</u>  
+- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu.<br>  
+  <u>PRA(Reject after review) -> IPMJ(Under Review)</u>  
 
 Conference Presentations
 ------
 - Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-Actions
   - _American Society for Public Administration’s 2025 Annual Conference_, Washington, USA. 
   (**The Runner-Up Award for Best Student Paper** in the Section on Chinese Public Administration of ASPA)    
-- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding   
+- Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding     
   - _CNAIS 2024_, Oct 2024, Tianjin, China
   - _CNIES 2024_, Oct 2024, Beijing, China
 - Words meet photos:  How Image-text Thematic Consistency Effect Crowdfunding Success  
@@ -73,7 +75,9 @@ Conference Presentations
 
 Academic Services 
 ------
-- ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship 
-- AOM2025 Reviewer, Track: ENT  
+- ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship   
+- AOM2025 Reviewer, Track: ENT    
 - CSWIM2024 Reviewer, Track: Blockchain, DLT and Fintech
+- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)
+- IPM  
 
