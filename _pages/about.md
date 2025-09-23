@@ -37,11 +37,11 @@ RESEARCH
 
 Publications
 ------
-- 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨
-- Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_    
+- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2025 Conference Proceedings_   
+- Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2025 Conference Proceedings_       
 - Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, _PACIS 2025 Conference Proceedings_  
-- Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2025 Conference Proceedings_  
-- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2025 Conference Proceedings_             
+- Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_      
+- 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨             
 
 Working Paper
 ------
