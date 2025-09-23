@@ -11,7 +11,7 @@ redirect_from:
 
 **Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.      
 
-His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.      
+His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.        
 
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)    
 
@@ -20,11 +20,11 @@ Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k
 EXPERIENCE
 ======
 
-Education
+Education  
 ------
 - Ph.D in Information Systems, Harbin Institute of Technology, Mar 2022 - Now  
 - M.S in Information Systems, Jilin University, Sep 2018 - Jun 2020      
-- B.S in Information Resources Management, Jilin University, Sep 2014 - Jun 2018
+- B.S in Information Resources Management, Jilin University, Sep 2014 - Jun 2018  
 
 Employment
 ------
@@ -39,17 +39,17 @@ Publications
 ------
 - Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2025 Conference Proceedings_   
 - Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2025 Conference Proceedings_       
-- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, _PACIS 2025 Conference Proceedings_  
-- Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_      
+- Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, _PACIS 2025 Conference Proceedings_    
+- Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_        
 - 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨             
 
 Working Paper
 ------
-- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng.<br>
+- Does Emotional Consistency Matter?  A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding. With Weitao He, Luning Liu, Yuqiang Feng.<br>  
   <u>JMIS(Desk reject) -> JBV(Reject after review) -> SEJ(Desk reject) -> DSS(2th-R&R)</u>    
-- How Funding Goal Shapes the Effectiveness of Emotional and Neutral Facial Expressions in Crowdfunding: A Construal Level Perspective. With Weitao He, Luning Liu.<br>  
+- When Are Emotional and Neutral Facial Expressions Effective in Crowdfunding? The Moderating Role of Funding Goals. With Weitao He, Luning Liu.<br>    
   <u>ETP(Reject after review) -> I&M(Reject after review) -> IPM(With editor)</u>  
-- Revisiting the role of visual complexity in the online attention economy: Evidence from crowdfunded microlending. With Weitao He, Jingwei Li, Luning Liu.<br>  
+- Revisiting the role of visual complexity in the online attention economy: Evidence from crowdfunded microlending. With Weitao He, Jingwei Li, Luning Liu.<br>    
   <u>JBV(Reject after review) -> EJIS(Desk reject) -> DSS(Desk reject) -> JBR(With editor)</u>  
 - Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng.<br>  
   <u>JSMED(Desk reject) -> JKE(With editor)</u>  
