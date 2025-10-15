@@ -54,11 +54,13 @@ Working Paper
 - Understanding the role of prosocial behavior in accumulating entrepreneurial capital and facilitating entrepreneurial activities. With Weitao He, Luning Liu, Yuqiang Feng.<br>    
   <u>JSMED(Desk reject) -> JKE(With editor)</u>  
 - When Words Meet Photos: How Image-Text Thematic Consistency Affects Multimodal Communication Performance. With Jingwei Li, Xitong Li, Luning Liu.<br>    
-  <u>MISQ(Reject after review) -> EJIS(In Preparation)</u>    
-- Information, emotion, and aesthetics: Visual persuasion in competitive crowdfunded microlending. With Jia Hu, Weitao He, Luning Liu.<br>  
+  <u>MISQ(Reject after review) -> EJIS(In Preparation)</u>      
+- Information, emotion, and aesthetics: Visual persuasion in competitive crowdfunded microlending. With Jia Hu, Weitao He, Luning Liu.<br>    
   <u>JBV(Under Review)</u>  
-- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu.<br>  
-  <u>PRA(Reject after review) -> IPMJ(Under Review)</u>  
+- Does Incongruence Matter? Gender and Age in Officer-Civilian Inter-actions. With Weitao He, Luning Liu.<br>    
+  <u>PRA(Reject after review) -> IPMJ(Under Review)</u>
+- Beyond Narrative: The Dual Impact of Visual Distinctiveness on Online Prosocial Crowdfunding. With Weitao He, Luning Liu.<br> 
+  <u>In Preparation</u>  
 
 Conference Presentations
 ------
@@ -70,10 +72,10 @@ Conference Presentations
   - _CNIES 2024_, Oct 2024, Beijing, China  
 - Words meet photos: How Image-text Thematic Consistency Effect Crowdfunding Success    
   - _ICIS 2024_, Dec 2024, Bangkok, Thailand  
-- Information Strategy in Platform Competition  
+- Information Strategy in Platform Competition    
   - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia
 - 超越叙事：视觉独特性对在线亲社会众筹的双重影响
--   _管理科学与工程国际会议 ICEMS 2025_, 哈尔滨, 中国  
+  - _管理科学与工程国际会议 ICEMS 2025_, 哈尔滨, 中国  
 
 Academic Services 
 ------
