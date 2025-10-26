@@ -11,7 +11,7 @@ redirect_from:
 
 **Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.       
 
-His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.              
+His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.                
 
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)      
 <br>   
@@ -57,12 +57,11 @@ Conference Presentations 
  
 Academic Services 
 ------
-- ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship       
+- ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship         
 - AOM2025 Reviewer, Track: ENT      
 - CSWIM2024 Reviewer, Track: Blockchain, DLT and Fintech    
-- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)          
+- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)            
 - IPM Reviewer  
-<br>     
 
 AWARDS $ HONORS      
 ======
