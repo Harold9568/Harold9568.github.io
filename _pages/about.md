@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"  
+title: "About me"  
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-**Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.          
+**Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.     
 
 His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.              
 
