@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <br>   
 
 **Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.      
@@ -15,6 +16,7 @@ His research interests include online crowdfunding, entrepreneurship, and DEI (D
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)    
 
 <br> 
+
 EXPERIENCE
 ======
 
@@ -29,6 +31,7 @@ Employment 
 - Big Data Development Engineer, Zhuhai CosMX Battery Co., Ltd, Jul 2020 - Aug 2021    
 
 <br> 
+
 RESEARCH  
 ======
 
@@ -63,6 +66,7 @@ Academic Services
 - IPM Reviewer  
 
 <br>   
+
 AWARDS $ HONORS      
 ======
 - Second Prize, Best Paper Award, ICMSE 2025
