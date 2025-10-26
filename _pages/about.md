@@ -60,12 +60,11 @@ Academic Services
 - ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship         
 - AOM2025 Reviewer, Track: ENT      
 - CSWIM2024 Reviewer, Track: Blockchain, DLT and Fintech      
-- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)              
+- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)                
 - IPM Reviewer    
-<br>
 
-AWARDS $ HONORS      
-======
+Awards and Honors
+------
 - Second Prize, Best Paper Award, ICMSE 2025
 - Runner-up, Best Student Paper Award, CSPA 2025
 - National Bronze Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition 2024
