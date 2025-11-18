@@ -56,6 +56,8 @@ Conference Presentations   
   - _管理科学与工程国际会议(ICEMS) 2025_, 哈尔滨, 中国
 - The Impact of Geopolitical Conflicts on Online Prosocial Lending
   - _复旦科创管理学术论坛 2025_, 上海, 中国
+- Anti-corruption efforts and citizen-initiated accountability: evidence from administrative litigation  
+  - _第十三届华人公共管理学者研讨会_, 广西, 中国
  
 Academic Services   
 ------
