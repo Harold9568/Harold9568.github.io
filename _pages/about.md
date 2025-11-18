@@ -51,16 +51,18 @@ Conference Presentations   
 - Words meet photos: How Image-text Thematic Consistency Effect Crowdfunding Success
   - _ICIS 2024_, Dec 2024, Bangkok, Thailand        
 - Information Strategy in Platform Competition      
-  - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia    
+  - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia      
 - 超越叙事：视觉独特性对在线亲社会众筹的双重影响
   - _管理科学与工程国际会议(ICEMS) 2025_, 哈尔滨, 中国
+- The Impact of Geopolitical Conflicts on Online Prosocial Lending
+  - _复旦科创管理学术论坛 2025_, 上海, 中国
  
-Academic Services 
+Academic Services   
 ------
 - ICIS2025 Reviewer, Track: Digital Innovation and Entrepreneurship         
 - AOM2025 Reviewer, Track: ENT      
 - CSWIM2024 Reviewer, Track: Blockchain, DLT and Fintech      
-- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)                
+- HICSS2025 Reviewer, Track: CL(Technological Advancements in Digital Collaboration with Generative AI and Large Language Models) & DA(Advancing the Twin Transition: Digital Technologies in Sustainable Service Ecosystems and the Circular Economy)                  
 - IPM Reviewer    
 
 Awards and Honors
