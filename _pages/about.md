@@ -48,13 +48,14 @@ Conference Presentations   
 - Does Emotional Consistency Matter? A Study of Profile Image and Narrative Text in the Loan-based Crowdfunding           
   - _CNAIS 2024_, Oct 2024, Tianjin, China  
   - _CNIES 2024_, Oct 2024, Beijing, China  
-- Words meet photos: How Image-text Thematic Consistency Effect Crowdfunding Success
-  - _ICIS 2024_, Dec 2024, Bangkok, Thailand        
+- Words meet photos: How Image-text Thematic Consistency Effect Crowdfunding Success  
+  - _ICIS 2024_, Dec 2024, Bangkok, Thailand          
 - Information Strategy in Platform Competition      
-  - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia      
+  - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia
+  - _优秀研究生国际交流活动 2025_, 约克、格拉斯哥, 英国
 - 超越叙事：视觉独特性对在线亲社会众筹的双重影响
   - _管理科学与工程国际会议(ICEMS) 2025_, 哈尔滨, 中国
-- The Impact of Geopolitical Conflicts on Online Prosocial Lending
+- The Impact of Geopolitical Conflicts on Online Prosocial Lending  
   - _复旦科创管理学术论坛 2025_, 上海, 中国
 - Anti-corruption efforts and citizen-initiated accountability: evidence from administrative litigation  
   - _第十三届华人公共管理学者研讨会_, 广西, 中国
