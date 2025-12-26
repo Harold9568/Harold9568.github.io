@@ -35,8 +35,8 @@ RESEARCH   
 
 Publications        
 ------
-- Does emotional consistency matter? A study of cover image and narrative text in loan-based crowdfunding, **Haohao Li**, Weitao He, Luning Liu, Yuqiang Feng, _Decision Support Systems_   
-- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_         
+- Does emotional consistency matter? A study of cover image and narrative text in loan-based crowdfunding, **Haohao Li**, Weitao He, Luning Liu, Yuqiang Feng, 2025, _Decision Support Systems_   
+- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_           
 - Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_           
 - Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, _PACIS 2025 Conference Proceedings_          
 - Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_          
