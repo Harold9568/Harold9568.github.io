@@ -9,9 +9,9 @@ redirect_from:
 
 <br>
 
-**Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.       
+**Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.         
 
-His research interests include online crowdfunding, entrepreneurship, and DEI (Diversity, Equity, and Inclusion). He focuses on how individuals or impoverished entrepreneurs with lower socioeconomic status and limited developmental resources can effectively leverage digital platforms to expand their access to resources, thereby improving their livelihoods and reducing poverty. He employs econometric methods, online experiments, and machine learning techniques—including deep learning, image analysis, and text mining—to extract insightful knowledge from multimodal data.                
+His research interests primarily focus on two areas: (1) Visual persuasion strategies and mechanisms in digital platforms, including the design strategies of cover images, the synergistic effects between visual and textual materials, and the interaction effects between visual elements and platform features; (2) Online entrepreneurial fundraising (crowdfunding), examining how entrepreneurs strategically leverage multimodal elements such as visuals and text to enhance persuasiveness and attract funding. Methodologically, he adopts a mixed-methods approach integrating econometric analysis, online experiments, and machine learning techniques (computer vision, deep learning, multimodal analytics) to derive actionable empirical insights from complex digital platform data.                  
 
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)      
 <br>     
@@ -40,13 +40,13 @@ Publications       
 - Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_           
 - Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, _PACIS 2025 Conference Proceedings_          
 - Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_          
-- 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨              
+- 吉林省专利申请人合作网络特征的演化研究, 2020, _情报科学_, 孟婧,邱长波,**李浩浩** & 宋思雨
 
 Conference Presentations    
 ------
 - Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding
   - _HICSS 2026_, Jan 2026, Hawaii, USA                                     
-- Information Strategy in Platform Competition          
+- Information Strategy in Platform Competition            
   - _HICSS 2026_, Jan 2026, Hawaii, USA  
   - _PACIS 2025_, Jul 2025, Kuala Lumpur, Malaysia    
   - _优秀研究生国际交流活动 2025_, 约克、格拉斯哥, 英国 https://som.hit.edu.cn/info/1012/23979.htm
