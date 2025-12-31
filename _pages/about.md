@@ -11,7 +11,7 @@ redirect_from:
 
 **Haohao Li** is a PhD candidate in the Department of Management Science and Engineering at Harbin Institute of Technology.         
 
-His research interests primarily focus on two areas: (1) Visual persuasion strategies and mechanisms in digital platforms, including the design strategies of cover images, the synergistic effects between visual and textual materials, and the interaction effects between visual elements and platform features; (2) Online entrepreneurial fundraising (crowdfunding), examining how entrepreneurs strategically leverage multimodal elements such as visuals and text to enhance persuasiveness and attract funding. Methodologically, he adopts a mixed-methods approach integrating econometric analysis, online experiments, and machine learning techniques (computer vision, deep learning, multimodal analytics) to derive actionable empirical insights from complex digital platform data.                  
+His research interests primarily focus on two areas: (1) Visual persuasion strategies and mechanisms in digital platforms, including the design strategies of cover images, the synergistic effects between visual and textual materials, and the interaction effects between visual elements and platform features; (2) Online entrepreneurial fundraising (crowdfunding), examining how entrepreneurs strategically leverage multimodal elements such as visuals and text to enhance persuasiveness and attract funding. Methodologically, he adopts a mixed-methods approach integrating econometric analysis, online experiments, and machine learning techniques (computer vision, deep learning, multimodal analytics) to derive actionable empirical insights from complex digital platform data.                    
 
 Downlond CV: [English Version](https://k00.fr/kyb7yaat),[中文简历](https://k00.fr/wrqfr4lz)      
 <br>     
@@ -27,7 +27,7 @@ Education     
 
 Employment  
 ------
-- Big Data Development Engineer, Zhuhai CosMX Battery Co., Ltd, Jul 2020 - Aug 2021      
+- Big Data Development Engineer, Zhuhai CosMX Battery Co., Ltd, Jul 2020 - Aug 2021        
 <br>       
 
 RESEARCH    
@@ -35,8 +35,8 @@ RESEARCH   
 
 Publications        
 ------
-- Does emotional consistency matter? A study of cover image and narrative text in loan-based crowdfunding, **Haohao Li**, Weitao He, Luning Liu, Yuqiang Feng, 2025, _Decision Support Systems_   
-- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_           
+- Does emotional consistency matter? A study of cover image and narrative text in loan-based crowdfunding, **Haohao Li**, Weitao He, Luning Liu, Yuqiang Feng, 2026, _Decision Support Systems_     
+- Is Visual Complexity Always Better? Evidence from Cover Images in Online Crowdfunding, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_             
 - Information Strategy in Platform Competition, **Haohao Li**, Weitao He, Luning Liu, _HICSS 2026 Conference Proceedings_           
 - Information Strategy in Platform Competition, **Haohao Li**, Luning Liu, _PACIS 2025 Conference Proceedings_          
 - Words Meet Photos: How Image-text Thematic Consistency Effect Crowdfunding Success, **Haohao Li**, Luning Liu, _ICIS 2024 Conference Proceedings_          
